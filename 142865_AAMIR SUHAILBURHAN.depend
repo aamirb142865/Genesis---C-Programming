@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\aamirb\desktop\mobile\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581505183 source:c:\users\aamirb\desktop\mobile\mobile.c
+	<stdio.h>
+	<stdlib.h>
+
